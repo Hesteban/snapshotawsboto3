@@ -1,0 +1,11 @@
+# Byte-compiled
+*$py.class
+*.log
+*.log.*
+properties.cfg
+global_configuration.cfg
+*generated_dataset.csv
+# HTML
+*.html
+*.pyc
+*.idea
